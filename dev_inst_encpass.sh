@@ -41,4 +41,4 @@ echo "Done. See https://github.com/plyint/encpass.sh/blob/master/examples/exampl
 
 cp "$0"{,.bak.`date +%F`}
 rm -- "$0"
- 
+ `
